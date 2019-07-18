@@ -1,0 +1,9 @@
+C:\Users\Work\source\repos\SuperCalc\bin\Debug\SuperCalc.exe.config
+C:\Users\Work\source\repos\SuperCalc\bin\Debug\SuperCalc.exe
+C:\Users\Work\source\repos\SuperCalc\bin\Debug\SuperCalc.pdb
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.fMain.resources
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.Properties.Resources.resources
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.csproj.GenerateResource.cache
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.exe
+C:\Users\Work\source\repos\SuperCalc\obj\Debug\SuperCalc.pdb
